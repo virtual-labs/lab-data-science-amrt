@@ -80,6 +80,20 @@
             "repo": "https://github.com/virtual-labs/exp-credit-fraud-svm-au",
             "tag": "v1.0.0",
             "deploy": true
+        },
+         {
+            "name": "Telecom Customer Churn Prediction using Decision Tree & Random Forest",
+            "short-name": "telecom-customer-churn",
+            "repo": "https://github.com/virtual-labs/exp-customer-churn-au",
+            "tag": "v1.0.0",
+            "deploy": true
+        },
+        {
+            "name": "Clustering wines using K-Means",
+            "short-name": "clustering-wines-k-means",
+            "repo": "https://github.com/virtual-labs/exp-clustering-wines-au",
+            "tag": "v1.0.0",
+            "deploy": true
         }
     ],
     "targetAudience": {
